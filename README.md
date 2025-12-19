@@ -1,4 +1,4 @@
-# Pandoro
+# Pandoro GPU Infrastructure
 
 GPU compute infrastructure for research teams running machine learning experiments.
 
